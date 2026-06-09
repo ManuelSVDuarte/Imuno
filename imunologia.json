@@ -1,0 +1,405 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "O que caracteriza a imunização ativa?",
+      "answerOptions": [
+        {"text": "Transferência de anticorpos prontos.", "isCorrect": false},
+        {"text": "Indução de resposta imune adaptativa e memória.", "isCorrect": true},
+        {"text": "Ação apenas da imunidade inata.", "isCorrect": false},
+        {"text": "Proteção de curta duração.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Qual é a função das células M no GALT?",
+      "answerOptions": [
+        {"text": "Produção de anticorpos IgE.", "isCorrect": false},
+        {"text": "Fagocitose direta de bactérias.", "isCorrect": false},
+        {"text": "Amostragem e transporte de antígenos do lúmen para tecidos linfoides.", "isCorrect": true},
+        {"text": "Secreção de muco protetor.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Qual citocina é central para a diferenciação Th1?",
+      "answerOptions": [
+        {"text": "IL-4.", "isCorrect": false},
+        {"text": "IL-12.", "isCorrect": true},
+        {"text": "IL-17.", "isCorrect": false},
+        {"text": "TGF-beta.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "O mimetismo molecular é um mecanismo de autoimunidade onde:",
+      "answerOptions": [
+        {"text": "Genes do MHC são deletados.", "isCorrect": false},
+        {"text": "Antígenos próprios são sequestrados.", "isCorrect": false},
+        {"text": "Antígenos microbianos compartilham semelhança com antígenos próprios.", "isCorrect": true},
+        {"text": "Células T reguladoras são excessivas.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Na Hipersensibilidade Tipo I, qual classe de anticorpo se fixa aos mastócitos?",
+      "answerOptions": [
+        {"text": "IgG.", "isCorrect": false},
+        {"text": "IgM.", "isCorrect": false},
+        {"text": "IgA.", "isCorrect": false},
+        {"text": "IgE.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Qual é a principal citocina envolvida na ativação de macrófagos em reações do tipo IVa (DTH)?",
+      "answerOptions": [
+        {"text": "IL-4.", "isCorrect": false},
+        {"text": "IFN-gama.", "isCorrect": true},
+        {"text": "IL-10.", "isCorrect": false},
+        {"text": "IL-17.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Por que vacinas conjugadas são necessárias para crianças menores de 2 anos?",
+      "answerOptions": [
+        {"text": "Antígenos polissacarídeos isolados são fracamente imunogênicos nesta idade.", "isCorrect": true},
+        {"text": "Eles não possuem anticorpos IgM.", "isCorrect": false},
+        {"text": "O sistema complemento não funciona.", "isCorrect": false},
+        {"text": "Eles destroem as proteínas transportadoras.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Qual marcador é utilizado para diagnóstico da Síndrome DRESS (Tipo IVb)?",
+      "answerOptions": [
+        {"text": "Neutrofilia.", "isCorrect": false},
+        {"text": "Eosinofilia.", "isCorrect": true},
+        {"text": "Linfopenia.", "isCorrect": false},
+        {"text": "Trombocitopenia.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "A ativação de linfócitos T naive requer:",
+      "answerOptions": [
+        {"text": "Apenas o reconhecimento do antígeno via MHC.", "isCorrect": false},
+        {"text": "MHC-peptídeo (Sinal 1) e Coestimulação B7-CD28 (Sinal 2).", "isCorrect": true},
+        {"text": "Presença de citocinas inflamatórias (Sinal 3).", "isCorrect": false},
+        {"text": "Todas as alternativas anteriores.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "O estado antiviral induzido por Interferons Tipo I (alfa/beta) envolve:",
+      "answerOptions": [
+        {"text": "Degradação do RNA viral e inibição da síntese proteica.", "isCorrect": true},
+        {"text": "Aumento da replicação viral.", "isCorrect": false},
+        {"text": "Bloqueio da fagocitose.", "isCorrect": false},
+        {"text": "Diferenciação de células B em células T.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Células Treg suprimem respostas imunes através de:",
+      "answerOptions": [
+        {"text": "Produção de citocinas como IL-10 e TGF-beta.", "isCorrect": true},
+        {"text": "Citotoxicidade direta por perforinas.", "isCorrect": false},
+        {"text": "Ativação de células NK.", "isCorrect": false},
+        {"text": "Nenhuma das anteriores.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Qual é a principal via de ativação do complemento na resposta secundária (IgG)?",
+      "answerOptions": [
+        {"text": "Via das lectinas.", "isCorrect": false},
+        {"text": "Via clássica.", "isCorrect": true},
+        {"text": "Via alternativa.", "isCorrect": false},
+        {"text": "Via da properdina.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "A síndrome de hiper-IgE está associada a qual defeito?",
+      "answerOptions": [
+        {"text": "Resposta Th1 insuficiente.", "isCorrect": false},
+        {"text": "Mutação no STAT3 e resposta Th17 defeituosa.", "isCorrect": true},
+        {"text": "Excesso de linfócitos T CD8+.", "isCorrect": false},
+        {"text": "Deficiência completa de células B.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Qual anticorpo é o principal mediador da ADCC por células NK?",
+      "answerOptions": [
+        {"text": "IgM.", "isCorrect": false},
+        {"text": "IgG.", "isCorrect": true},
+        {"text": "IgE.", "isCorrect": false},
+        {"text": "IgA.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Células B1 e B da zona marginal realizam:",
+      "answerOptions": [
+        {"text": "Resposta T-dependente.", "isCorrect": false},
+        {"text": "Resposta T-independente.", "isCorrect": true},
+        {"text": "Hipermutação somática intensa.", "isCorrect": false},
+        {"text": "Formação de centros germinativos complexos.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Qual o principal efeito da IL-17 na resposta inata?",
+      "answerOptions": [
+        {"text": "Recrutamento de neutrófilos.", "isCorrect": true},
+        {"text": "Ativação de células NK.", "isCorrect": false},
+        {"text": "Inibição de macrófagos.", "isCorrect": false},
+        {"text": "Diferenciação de plasmócitos.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "O mecanismo de mimetismo molecular ocorre quando:",
+      "answerOptions": [
+        {"text": "O patógeno imita antígenos próprios.", "isCorrect": true},
+        {"text": "O MHC é inibido pelo vírus.", "isCorrect": false},
+        {"text": "As células Treg falham.", "isCorrect": false},
+        {"text": "Ocorre mutação de gene único.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Qual classe de Ig é predominante em secreções mucosas?",
+      "answerOptions": [
+        {"text": "IgG.", "isCorrect": false},
+        {"text": "IgM.", "isCorrect": false},
+        {"text": "IgA.", "isCorrect": true},
+        {"text": "IgE.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "A fase de sensibilização da Hipersensibilidade Tipo I resulta em:",
+      "answerOptions": [
+        {"text": "Produção de anticorpos IgE fixados em mastócitos.", "isCorrect": true},
+        {"text": "Liberação de histamina imediata.", "isCorrect": false},
+        {"text": "Ativação de células T CD8+.", "isCorrect": false},
+        {"text": "Granuloma.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Quais células compõem o granuloma?",
+      "answerOptions": [
+        {"text": "Linfócitos T, macrófagos e células gigantes.", "isCorrect": true},
+        {"text": "Apenas neutrófilos.", "isCorrect": false},
+        {"text": "Apenas células B.", "isCorrect": false},
+        {"text": "Linfócitos T e células NK.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "O que é o fenômeno da 'Bystander Activation'?",
+      "answerOptions": [
+        {"text": "Ativação inespecífica de células T auto-reativas durante infecções.", "isCorrect": true},
+        {"text": "Crescimento descontrolado de tumores.", "isCorrect": false},
+        {"text": "Morte por apoptose de linfócitos.", "isCorrect": false},
+        {"text": "Bloqueio do centro germinativo.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Qual citocina mantém a diferenciação das células Th17?",
+      "answerOptions": [
+        {"text": "IL-12.", "isCorrect": false},
+        {"text": "IL-23.", "isCorrect": true},
+        {"text": "IL-4.", "isCorrect": false},
+        {"text": "IL-10.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Qual o papel do CTLA-4 nas células T?",
+      "answerOptions": [
+        {"text": "Estimular a proliferação.", "isCorrect": false},
+        {"text": "Inibir a ativação competitivamente com o CD28.", "isCorrect": true},
+        {"text": "Ativar o complemento.", "isCorrect": false},
+        {"text": "Induzir apoptose viral.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "O que é tolerância central?",
+      "answerOptions": [
+        {"text": "Seleção negativa no timo/medula óssea.", "isCorrect": true},
+        {"text": "Anergia em tecidos periféricos.", "isCorrect": false},
+        {"text": "Supressão por células Treg.", "isCorrect": false},
+        {"text": "Morte por Fas/Fas-L.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Qual o papel da enzima AID na célula B?",
+      "answerOptions": [
+        {"text": "Hipermutação somática e troca de classe.", "isCorrect": true},
+        {"text": "Ativação do complemento.", "isCorrect": false},
+        {"text": "Sinalização do BCR.", "isCorrect": false},
+        {"text": "Manutenção da Treg.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "O que define a Imunodeficiência Comum Variável?",
+      "answerOptions": [
+        {"text": "Redução sérica de imunoglobulinas e falha na resposta vacinal.", "isCorrect": true},
+        {"text": "Ausência total de linfócitos T.", "isCorrect": false},
+        {"text": "Deficiência de neutrófilos.", "isCorrect": false},
+        {"text": "Excesso de produção de IgA.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Como os linfócitos T CD8+ destroem células alvo na hipersensibilidade Tipo IVc?",
+      "answerOptions": [
+        {"text": "Perforinas e granzimas.", "isCorrect": true},
+        {"text": "Produção de IgE.", "isCorrect": false},
+        {"text": "Deposição de imunocomplexos.", "isCorrect": false},
+        {"text": "Degranulação de mastócitos.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Qual a principal via de escape tumoral mencionada nas aulas?",
+      "answerOptions": [
+        {"text": "Superexpressão de MHC-I.", "isCorrect": false},
+        {"text": "Expressão de checkpoints inibitórios (PD-1/PD-L1).", "isCorrect": true},
+        {"text": "Ativação de células NK.", "isCorrect": false},
+        {"text": "Aumento de células Th1.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "A IL-22 tem como função principal:",
+      "answerOptions": [
+        {"text": "Efeitos citoprotetores no epitélio da mucosa.", "isCorrect": true},
+        {"text": "Inibir o recrutamento de neutrófilos.", "isCorrect": false},
+        {"text": "Promover a apoptose de células T.", "isCorrect": false},
+        {"text": "Ativar a via alternativa do complemento.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "O que são antígenos 'sequestrados' em órgãos imunoprivilegiados?",
+      "answerOptions": [
+        {"text": "Antígenos que não têm contato com o sistema imune (ex: olho).", "isCorrect": true},
+        {"text": "Antígenos presentes em todo o corpo.", "isCorrect": false},
+        {"text": "Proteínas de bactérias comuns.", "isCorrect": false},
+        {"text": "Componentes do complemento.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "A deficiência de CD40 causa:",
+      "answerOptions": [
+        {"text": "Produção apenas de IgM.", "isCorrect": true},
+        {"text": "Produção de IgG em excesso.", "isCorrect": false},
+        {"text": "Formação perfeita de centro germinativo.", "isCorrect": false},
+        {"text": "Aumento de células Treg.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Qual é a função do Treg na regulação imune?",
+      "answerOptions": [
+        {"text": "Supressão de células T efetoras.", "isCorrect": true},
+        {"text": "Produção de perforinas.", "isCorrect": false},
+        {"text": "Ativação do complemento.", "isCorrect": false},
+        {"text": "Produção de anticorpos.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Anticorpos IgG atravessam a placenta?",
+      "answerOptions": [
+        {"text": "Sim.", "isCorrect": true},
+        {"text": "Não.", "isCorrect": false},
+        {"text": "Apenas IgM.", "isCorrect": false},
+        {"text": "Apenas IgA.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Tumores quentes são caracterizados por:",
+      "answerOptions": [
+        {"text": "Ausência de infiltração linfocitária.", "isCorrect": false},
+        {"text": "Alta infiltração de linfócitos.", "isCorrect": true},
+        {"text": "Crescimento lento e encapsulado.", "isCorrect": false},
+        {"text": "Baixa atividade de autoanticorpos.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "Qual o papel do receptor poli-Ig?",
+      "answerOptions": [
+        {"text": "Transportar IgA através da célula epitelial.", "isCorrect": true},
+        {"text": "Degradar imunocomplexos.", "isCorrect": false},
+        {"text": "Ativar a via clássica.", "isCorrect": false},
+        {"text": "Produzir IgM.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "Haptenos são:",
+      "answerOptions": [
+        {"text": "Substâncias pequenas não imunogênicas, que tornam-se imunogênicas ao ligar-se a proteínas.", "isCorrect": true},
+        {"text": "Antígenos proteicos grandes.", "isCorrect": false},
+        {"text": "Células efetoras citotóxicas.", "isCorrect": false},
+        {"text": "Componentes do complemento.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "O que indica um teste de PPD positivo?",
+      "answerOptions": [
+        {"text": "Hipersensibilidade tardia (Tipo IVa) contra M. tuberculosis.", "isCorrect": true},
+        {"text": "Presença de anticorpos IgE.", "isCorrect": false},
+        {"text": "Imunodeficiência grave.", "isCorrect": false},
+        {"text": "Reação tipo I imediata.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Qual a principal via de transmissão vertical do HIV?",
+      "answerOptions": [
+        {"text": "Pelo parto e aleitamento.", "isCorrect": true},
+        {"text": "Pelo ar.", "isCorrect": false},
+        {"text": "Por contato casual.", "isCorrect": false},
+        {"text": "Pela picada de insetos.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "A disbiose intestinal contribui para:",
+      "answerOptions": [
+        {"text": "Inflamação crônica e translocação microbiana.", "isCorrect": true},
+        {"text": "Eubiose perfeita.", "isCorrect": false},
+        {"text": "Proteção total contra patógenos.", "isCorrect": false},
+        {"text": "Aumento das células Treg.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "O estado antiviral mediado por Interferons Tipo I previne:",
+      "answerOptions": [
+        {"text": "A replicação viral nas células vizinhas.", "isCorrect": true},
+        {"text": "A formação de anticorpos.", "isCorrect": false},
+        {"text": "O recrutamento de neutrófilos.", "isCorrect": false},
+        {"text": "A diferenciação de macrófagos.", "isCorrect": false}
+      ]
+    }
+  ]
+}
+
